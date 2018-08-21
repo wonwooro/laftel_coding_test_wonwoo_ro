@@ -1,5 +1,6 @@
 # laftel_coding_test_wonwoo_ro
 안녕하세요. 라프텔 지원자 노원우입니다. (wonwoo.ro2@gmail.com)
+
 각각의 디렉토리 (laftel_p1, ...) 는 다음과 같이 구성되어 있습니다.
 
 1. pX_test.py (실행용 파일)
